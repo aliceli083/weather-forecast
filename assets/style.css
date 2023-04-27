@@ -1,0 +1,10 @@
+#headerBlock {
+ background-color: rgb(171, 125, 214);   
+}
+#title {
+    text-align: center;
+    color: white;
+}
+#current-weather {
+    background-color: yellowgreen;
+}
